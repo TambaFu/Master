@@ -1,0 +1,8 @@
+munkres
+numpy
+kymatio
+torchvision
+tqdm
+torch
+scipy
+scikit_learn
